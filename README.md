@@ -1,4 +1,4 @@
-<h1>Atividade de Segurança de Dados - Algoritmos para gerar sílabas</h1>
+<h1>Atividade de Segurança de Dados - Algoritmos para geração de palavras</h1>
 
 <h2>Questão 3</h2>
 Algorítmo que produz todas as palavras de 4
